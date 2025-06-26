@@ -1,4 +1,4 @@
-24742592740504377
+24744343646527932
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99525,6 +99525,13 @@ CPG1316S01D02_mikeholscher
 0
 6
 3
+isaacscollection
+D_A-405_P7.62mm_Horizontal
+Diode, A-405 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
+Diode A-405 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm
+0
+2
+2
 isaacscollection
 SW_choc_no_silk
 Footprint for Kailh Choc style switches
