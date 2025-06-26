@@ -65,6 +65,7 @@
 			(psnegative no)
 			(psa4output no)
 			(plot_black_and_white yes)
+			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
@@ -19687,7 +19688,7 @@
 		(uuid "f74543ac-1d93-40d0-ab42-394c0398ff30")
 	)
 	(gr_text "reset"
-		(at 166.20049 56.586444 0)
+		(at 165.89049 56.546444 0)
 		(layer "F.SilkS")
 		(uuid "57beac84-e5fc-46f7-81e3-b2d4b04444c4")
 		(effects
@@ -19698,8 +19699,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "wake"
-		(at 169.97049 56.606444 0)
+	(gr_text "sleep"
+		(at 169.77049 56.526444 0)
 		(layer "B.SilkS")
 		(uuid "3f3390ad-fd17-499d-aaa0-823c8465bdab")
 		(effects
