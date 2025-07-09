@@ -4,7 +4,9 @@ ez to assemble, reversible pcb, face down n!n/pro micro (zmk only!!), requires d
 
 WATCH YOUR DIODE ORIENTATION!!! IT MATTERS!
 
-![pretty image of le broke](https://github.com/turnisaa-sgtworms/le-broke/blob/main/images/PXL_20250616_201934272.jpg?raw=true)
+![pretty image of le broke](https://github.com/turnisaa-sgtworms/le-broke/blob/main/images/case%20top.jpg)
+![second pretty image of le broke](https://github.com/turnisaa-sgtworms/le-broke/blob/main/images/PXL_20250616_201934272.jpg?raw=true)
+![third pretty image of le broke](https://github.com/turnisaa-sgtworms/le-broke/blob/main/images/case.jpg)
 ![pcb in kicad](https://github.com/turnisaa-sgtworms/le-broke/blob/main/images/pcb.png?raw=true)
 ![another pretty image of le broke](https://github.com/turnisaa-sgtworms/le-broke/blob/main/images/PXL_20250616_202051177.jpg?raw=true)
 ![top](https://github.com/turnisaa-sgtworms/le-broke/blob/main/images/PXL_20250616_200147241.jpg?raw=true)
