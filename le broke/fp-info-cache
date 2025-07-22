@@ -1,4 +1,4 @@
-24744344165190356
+24746097324673411
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99545,4 +99545,11 @@ Hotswap footprint for Kailh Choc style switches
 
 0
 12
+2
+isaacscollection
+choc_mx_rev
+Footprint for Cherry MX style switches
+cherry mx switch
+0
+7
 2
